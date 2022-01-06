@@ -4,7 +4,7 @@ attrs==18.1.0
 billiard==3.5.0.3
 blessings==1.7
 bpython==0.17.1
-celery==4.2.0
+celery==5.2.2
 certifi==2018.4.16
 chardet==3.0.4
 contextlib2==0.5.5
